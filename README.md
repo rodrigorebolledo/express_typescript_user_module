@@ -2,11 +2,11 @@
 
 ---
 
-### Para inicializar la base de datos Mysql (QUEDA PENDIENTE) y el servidor Node
+### Para inicializar la base de datos Mysql y el servidor Node
 
 ### Base de datos Mysql:
 
-_Pendiente_
+[Adjunto URL de la documentación oficial](https://dev.mysql.com/doc/refman/8.0/en/installing.html)
 
 ### Servidor Node:
 
