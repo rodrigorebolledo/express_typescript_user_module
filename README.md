@@ -8,13 +8,13 @@
 
 ### Servidor Node:
 
-- Ejecutar el comando
+- Instalar dependencias
 
 ```sh
 npm i
 ```
 
-- Ejecutar el comando
+- Ejecutar el ambiente de desarrollo
 
 ```sh
 npm run dev
