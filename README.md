@@ -2,7 +2,7 @@
 
 ---
 
-### **Para inicializar la base de datos mysql (QUEDA PENDIENTE) y el servidor node **
+### Para inicializar la base de datos mysql (QUEDA PENDIENTE) y el servidor node
 
 ## ...
 
