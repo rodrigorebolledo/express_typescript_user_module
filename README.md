@@ -25,6 +25,6 @@ Se debe utilizar algún cliente que permita realizar peticiones HTTP. Se recomie
 * El host definido para este caso corresponde al: <u>localhost</u>
 * El puerto definido para este caso corresponde al: <u>3000</u>
 
-Se adjunta colección de Postman para probar.
+_Se adjunta colección de Postman para probar._
 
 ---
