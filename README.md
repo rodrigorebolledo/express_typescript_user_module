@@ -2,9 +2,23 @@
 
 ---
 
-### **Para inicializar la base de datos mysql y el servidor node (QUEDA PENDIENTE)**
+### **Para inicializar la base de datos mysql (QUEDA PENDIENTE) y el servidor node **
 
 ## ...
+
+### Servidor Node:
+
+- Ejecutar el comando
+
+```sh
+npm i
+```
+
+- Ejecutar el comando
+
+```sh
+npm run dev
+```
 
 ---
 
