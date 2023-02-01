@@ -2,7 +2,7 @@
 
 ---
 
-### Para inicializar la base de datos Mysql y el servidor Node
+## Inicializar base de datos Mysql y servidor Node
 
 ### Base de datos Mysql:
 
@@ -24,7 +24,7 @@ npm run dev
 
 ---
 
-### **Para cargar la base de datos**
+## **Cargar base de datos**
 
 - Crear una instancia de base de datos
 - En la carpeta <u>database_scripts</u>, ejecutar la lista de comandos contenidos en el script
@@ -32,7 +32,7 @@ npm run dev
 
 ---
 
-### **Para probar la solución**
+## **Probar solución**
 
 Se debe utilizar algún cliente que permita realizar peticiones HTTP. Se recomienda **Postman**.
 
