@@ -1,0 +1,29 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model role {
+  id   Int    @id @default(autoincrement())
+  name String @db.VarChar(20)
+  user user[]
+}
+
+model user {
+  id       Int    @id @default(autoincrement())
+  username String @db.VarChar(30)
+  pass     Bytes  @db.Binary(60)
+  role_id  Int
+  role     role   @relation(fields: [role_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "user_ibfk_1")
+
+  @@index([role_id], map: "role_id")
+}
+
+model metadata {
+  id             Int     @id @default(autoincrement())
+  has_initialize Boolean
+}
