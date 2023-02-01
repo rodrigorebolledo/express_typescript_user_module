@@ -25,7 +25,7 @@ npm run dev
 ### **Para cargar la base de datos**
 
 - Crear una instancia de base de datos
-- En la carpeta <u>database_scripts</u> ejecutar la lista de comandos contenidos en el script
+- En la carpeta <u>database_scripts</u>, ejecutar la lista de comandos contenidos en el script
 - Actualizar el la variable de entorno DATABASE_URL con los datos correspondientes
 
 ---
