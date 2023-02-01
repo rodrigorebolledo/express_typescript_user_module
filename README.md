@@ -2,9 +2,9 @@
 
 ---
 
-### Para inicializar la base de datos mysql (QUEDA PENDIENTE) y el servidor Node
+### Para inicializar la base de datos Mysql (QUEDA PENDIENTE) y el servidor Node
 
-### Servidor Node:
+### Base de datos Mysql:
 
 _Pendiente_
 
